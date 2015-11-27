@@ -1,4 +1,4 @@
-# merge-youtube-playlists
+# merge-youtube-playlists  [finished]
 
 a patchwork of youtube and google API examples and fragments from stackoverflow,
 that allows to merge youtube playlists
